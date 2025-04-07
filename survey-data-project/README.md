@@ -1,7 +1,7 @@
 # Survey Data Processing & Reporting Automation
 
 ## Overview
-This project simulates a real-world data processing workflow for survey data. It mirrors tasks in entry-level data analyst roles, focusing on:
+This project simulates a real-world data processing workflow for survey data. focusing on:
 - Data cleaning
 - Variable manipulation
 - Summary report generation
